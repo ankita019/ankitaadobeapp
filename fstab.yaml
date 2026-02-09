@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/ankita019/ankitaadobeapp/
+    type: markup
+
+folders:
+ /products/: /products/default
